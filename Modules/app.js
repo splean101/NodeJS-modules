@@ -10,6 +10,6 @@ let userName = os.userInfo().username;
 /*console.log(`Date of request: ${greeting.date}`);
 console.log(greeting.getMessage(userName));
 
-let vitek = new user('Vitalii', 33);
-vitek.sayHi();
-vitek.displayInfo();*/
+let im = new user('Vitalii', 33);
+im.sayHi();
+im.displayInfo();*/
