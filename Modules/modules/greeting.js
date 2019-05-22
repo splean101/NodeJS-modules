@@ -6,5 +6,3 @@ module.exports.getMessage = function(name){
     else if(hour > 10) return 'Good afternoon '+ name;
     else return 'Good morning ' + name;
 };
-
-;
